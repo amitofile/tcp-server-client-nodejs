@@ -1,0 +1,26 @@
+{
+  "name": "tcp-server-client-nodejs",
+  "version": "1.0.0",
+  "description": "TCP server-client scripts in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitofile/tcp-server-client-nodejs.git"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "client",
+    "nodejs"
+  ],
+  "author": "amitp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitofile/tcp-server-client-nodejs/issues"
+  },
+  "homepage": "https://github.com/amitofile/tcp-server-client-nodejs#readme"
+}
