@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/amitofile/tcp-server-client-nodejs/issues"
   },
-  "homepage": "https://github.com/amitofile/tcp-server-client-nodejs#readme"
+  "homepage": "https://github.com/amitofile/tcp-server-client-nodejs#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
 }
